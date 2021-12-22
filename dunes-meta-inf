@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>UTF-16</comment>
+<entry key="vso-build-nb">17522798</entry>
+<entry key="pkg-name">com.test.module</entry>
+<entry key="used-plugins"/>
+<entry key="pkg-signer">O=VMware,OU=Unknown,CN=vRO vco-app-5fb4c5cb84-q2cgt 8b64a21a-36b9-405f-8080-192d32dc5240</entry>
+<entry key="pkg-owner">O=VMware,OU=Unknown,CN=vRO vco-app-5fb4c5cb84-q2cgt 8b64a21a-36b9-405f-8080-192d32dc5240</entry>
+<entry key="vso-version">8.3.0.17522798</entry>
+<entry key="pkg-id">8a7482e47ddd6d37017de0b4cab10269</entry>
+</properties>
